@@ -188,7 +188,8 @@ figure svg {
 
 
 .content {
-  padding: 10px 38px 1px 38px;
+  padding-top: 10px;
+  padding-bottom: 1px ;
  
 }
 
